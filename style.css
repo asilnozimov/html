@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    font-size: 25px;
+    font-weight: 500;
+    font-family:"algerian" ;
+    text-align: justify;
+    /* center,left,right,justify */
+    text-decoration: underline;
+    /* underline,overline,line-through */
+    text-transform: lowercase;
+    /* uppercase,lowercase,capitalize */
+    text-indent:50px ;
+    
+    text-shadow:10px 50x 5px red ;
+}
